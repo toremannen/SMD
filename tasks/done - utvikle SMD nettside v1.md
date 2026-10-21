@@ -15,17 +15,17 @@ Implementere en statisk, tospråklig SMD-nettside i site/ og levere PR mot main.
 - [x] Hjem, Teknologi, Om oss og Kontakt, norsk standard og engelsk valg.
 - [x] Ingen oppdiktede selskapsfakta eller forretningshemmeligheter.
 - [x] Mobilvisning, språk og navigasjon kontrollert.
-- [x] GitHub Pages-workflow beholdt; dokumentasjon klar for PR.
+- [x] GitHub Pages-workflow beholdt; dokumentasjon og PR levert.
 
 ## Fremgangsmåte / notater
 
-Brukerens bestilling 2026-10-21 avklarer design, språk, seksjoner og HTML/CSS/JavaScript. Kontaktadresse, domene og produktmateriell er fortsatt uavklart. Kun bekreftet selskapsbeskrivelse brukes. Egen konseptillustrasjon merkes som plassholder.
+Brukerens bestilling 2026-10-21 avklarer design, språk, seksjoner og HTML/CSS/JavaScript. Kontaktadresse post@smartmedicaldiscovery.no er bekreftet av prosjekteier. Domene og produktmateriell er fortsatt uavklart. Kun bekreftet selskapsbeskrivelse brukes. Egen konseptillustrasjon merkes som plassholder.
 
 ## Leveranse / lenker
 
 - [Nettside](../site/index.html)
 - Gren: feature/smd-website-v1
-- PR-lenke legges til ved opprettelse.
+- [Pull Request #1](https://github.com/toremannen/SMD/pull/1), utkast mot main; ikke merget.
 
 ## Ferdigstilt
 
