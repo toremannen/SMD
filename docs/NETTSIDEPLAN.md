@@ -1,6 +1,6 @@
 # SMD — Utviklingsplan for statisk nettside
 
-**Status:** Utkast (18. oktober 2026). Skal avklares med SMD før gjennomføring.
+**Status:** Design og omfang for versjon 1.0 besluttet av prosjekteier 21. oktober 2026. Nettsiden skal godkjennes før merge og publisering. Øvrige forslag og åpne spørsmål nedenfor er fortsatt foreløpige.
 
 ## 1. Bekreftet utgangspunkt
 - En statisk nettside skal utvikles for SMD.
@@ -96,3 +96,14 @@
 ## 8. Tilknyttet prosjektkunnskap
 - [Instruksjoner for agenter](../AGENTS.md)
 - [Skill: Fillagring og Microsoft 365](../skills/bedrift-fillagring/SKILL.md)
+
+## 9. Beslutninger for versjon 1.0 — 21. oktober 2026
+
+- **Besluttet:** Mørkt, teknologisk uttrykk med #09111D, #152536, #64C7DA og #EFF4F7. Fokus på innovasjon og briller.
+- **Besluttet:** Norsk bokmål som standard, engelsk språkvalg; seksjonene Hjem, Teknologi, Om oss og Kontakt på én side.
+- **Besluttet:** HTML, CSS og enkel JavaScript i `site/`, uten byggetrinn eller tredjepartsskript.
+- **Bekreftet kontaktadresse:** post@smartmedicaldiscovery.no, oppgitt av prosjekteier. Dette fastsetter ikke nettstedets domene eller hva SMD står for.
+- **Besluttet:** Gren `feature/smd-website-v1`, PR mot `main`. Ingen merge eller publisering før prosjekteiers godkjenning. Eksisterende Pages-workflow beholdes.
+- **Innholdsgrense:** Kun bekreftet informasjon om utvikling og salg av briller. Ingen produktspesifikasjoner, medisinske påstander, statistikk eller interne opplysninger.
+- **Plassholder:** Egen abstrakt SVG-konseptillustrasjon av briller, tydelig merket som illustrasjon og ikke produktfoto. Tekstbasert SMD-merke er et designutkast, ikke en bekreftet offisiell logo.
+- **Uavklart:** Offisielt domene, offisiell logo, godkjent produktmateriell, konkrete teknologibeskrivelser og primærmålgruppe.
